@@ -28,10 +28,10 @@
 </p>
 
 <h4 align="center">
-    Copyright (C) 2023 <a href="https://github.com/gwtithu/GoKu_Userbot">The GoKuBot</a>
+    Copyright (C) 2023 <a href="https://github.com/NEIMAN-AI/TeamNeiman-ChatBot">TEAM-NEIMAN chatbot</a>
 </h4>
 
-Project [GoKuBot](https://github.com/gwtithu/GoKu_Userbot) is free software: you can redistribute it and/or modify
+Project [TEAM-NEIMAN chatbot](https://github.com/NEIMAN-AI/TeamNeiman-ChatBot) is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.
