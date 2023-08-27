@@ -3,7 +3,7 @@
 </p>
   ━━━━━━━━━━━━━━━━━━━━
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=geektyper&label=Bot%20views&color=0e75b6&style=flat" alt="NEIMAN-AI/Chatbot" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NEIMAN-AI/Chatbot&label=Bot%20views&color=0e75b6&style=flat" alt="NEIMAN-AI/Chatbot" /> </p>
 
 
 <p align="center">
