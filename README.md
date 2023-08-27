@@ -2,15 +2,6 @@
   <img src="https://graph.org/file/5ba74c89345225941e957.jpg">
 </p>
   ━━━━━━━━━━━━━━━━━━━━
-## Deploy To Heroku
-- Get All The Necessary Variables And Deploy To Heroku.
-- Some Mandatory Variables Are listed [Here](#Variables).
-- Fork & Star this repo.
-- Click on below button to access deploy page.
-- NOTE: Click on deploy button from your fork only.
-- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/NEIMAN-AI)
-
-------
 
 <p align="center">
 <b>𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗠𝗘𝗧𝗛𝗢𝗗𝗦</b>
