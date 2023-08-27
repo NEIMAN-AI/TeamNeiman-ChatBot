@@ -3,6 +3,9 @@
 </p>
   ━━━━━━━━━━━━━━━━━━━━
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=geektyper&label=Bot%20views&color=0e75b6&style=flat" alt="NEIMAN-AI/Chatbot" /> </p>
+
+
 <p align="center">
 <b>𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗠𝗘𝗧𝗛𝗢𝗗𝗦</b>
 </p>
